@@ -1,0 +1,19 @@
+<div class="menu-options invisible">
+  <button type="button" id="close-btn">X</button>
+  <div class="rounded flex justify-center">
+      <img src=<%=image_path("user.png")%> class="rounded img-w100"/>
+  </div>
+  <h3 class="color-white margin-20 text-center">
+    <%=current_user.name%>
+  </h3>
+  <ul>
+    <li>
+      <%= link_to "Home", root_path, class: '' %>
+    <li>
+      <%=button_to "Log out", destroy_user_session_path, 
+          method: :delete %>
+    </li>
+  </ul>
+  <hr>
+  <%= javascript_include_tag 'menu_code' %>
+</div>
