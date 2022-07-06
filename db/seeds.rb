@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+User.create(name: 'Ivan', email: 'ivan@gmail.com', password: '123456')
+Category.create(user: User.first, name: 'Streaming')
+Entity.create(user: User.first, category: Category.first, name: 'Netflix', amount: 10)
