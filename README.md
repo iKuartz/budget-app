@@ -26,14 +26,14 @@ To get a local copy follow these simple steps.
 ## Live demo
 
 You can try the functionality of this application by clicking:    
-[Demo](https://evening-cove-92614.herokuapp.com)
+[Demo](https://whispering-brushlands-95867.herokuapp.com)
 
 ## Authors
 
 ### :bust_in_silhouette: Ivan Silva
 - GitHub: [iKuartz](https://github.com/iKuartz)
-- LinkedIn: [Ivan Barbosa da Silva](https://www.linkedin.com/in/ivan-silva-a47058b3/)
-- 
+- LinkedIn: [Ivan Barbosa da Silva](https://www.linkedin.com/in/i-b-silva/)
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
