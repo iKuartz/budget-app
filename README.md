@@ -26,7 +26,7 @@ To get a local copy follow these simple steps.
 ## Live demo
 
 You can try the functionality of this application by clicking:    
-[Demo](https://evening-cove-92614.herokuapp.com)
+[Demo](https://whispering-brushlands-95867.herokuapp.com)
 
 ## Authors
 
